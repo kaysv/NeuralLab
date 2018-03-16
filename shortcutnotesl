@@ -1,0 +1,7 @@
+git guru mantras
+
+1. git pull #pull the latest remote
+2. git add .#add all the changes in the folder
+3. git commit -m 'message'
+4. git push -u origin master
+
